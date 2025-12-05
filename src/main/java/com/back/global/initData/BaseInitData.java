@@ -1,4 +1,3 @@
-
 package com.back.global.initData;
 
 import com.back.domain.post.post.entity.Post;
